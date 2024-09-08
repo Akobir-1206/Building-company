@@ -11,5 +11,19 @@
         "text": " Hamma narsada a'lo",
         "text1": "Bzining liyohamiz",
         "text2": "Bog'lanish"
+    },
+    "service": {
+        "text": "Bizning xizmatlarimiz",
+        "text1": "Siz kompaniyamiz mutaxassislaridan bepul ma'lumot olishingiz mumkin",
+        "text2": "Hujjatlarni rasmiylashtirish",
+        "text3": " Ta`mirlash tuzatish xizmat",
+        "text4": " Professionallar jamoasi"
+    },
+    "statistic": {
+        "text": "Bizning kompaniyada",
+        "text1": "Xodimlar soni",
+        "text2": "Ob'yektlar",
+        "text3": "Maxsus jihozlar",
+        "text4": "bozorda 14-yil"
     }
 }

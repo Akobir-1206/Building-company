@@ -4,6 +4,7 @@ import Header from './Components/Header'
 import Hero from './Components/Hero'
 import Service from './Components/Service'
 import Statistic from './Components/Statistic'
+import Homes from './Components/Homes'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -15,6 +16,7 @@ function App() {
         <Hero/>
         <Service/>
         <Statistic/>
+        <Homes/>
     </>
   )
 }

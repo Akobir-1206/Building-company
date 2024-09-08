@@ -11,5 +11,19 @@
         "text": "Everything is top-notch",
         "text1": "Our Services",
         "text2": "Contact"
+    },
+    "service": {
+        "text": "Our Services",
+        "text1": "You can get free consultation from our specialists",
+        "text2": "Document Processing",
+        "text3": "Repair and Maintenance Services",
+        "text4": "Professional Team"
+    },
+    "statistic": {
+        "text": "In our company",
+        "text1": "Number of employees",
+        "text2": "Projects",
+        "text3": "Special equipment",
+        "text4": "in the market for 14 years"
     }
 }
