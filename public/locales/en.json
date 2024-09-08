@@ -1,10 +1,15 @@
 {
     "header": {
-    "text": "Information",
-    "text1": "About Us",
-    "text2": "Enterprises",
-    "text3": "Our Advantages",
-    "text4": "News",
-    "text5": "Contact"
-}
+        "text": "Information",
+        "text1": "About Us",
+        "text2": "Enterprises",
+        "text3": "Our Advantages",
+        "text4": "News",
+        "text5": "Contact"
+    },
+    "hero": {
+        "text": "Everything is top-notch",
+        "text1": "Our Services",
+        "text2": "Contact"
+    }
 }
