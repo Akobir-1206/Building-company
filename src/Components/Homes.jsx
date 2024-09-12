@@ -5,12 +5,14 @@ import home3 from '../assets/uy3.jpg'
 import home4 from '../assets/uy4.jpg'
 import home5 from '../assets/uy5.jpg'
 import home6 from '../assets/uy6.jpg'
+import { useTranslation } from 'react-i18next'
 
 export default function Homes() {
+    const { t, i18n } = useTranslation();
     return (
-        <div className='bg-gray-800  '>
-            <div className="  ">
-                <h1 className=' items-center w-[400px] ml-[35%] text-4xl text-white'>Sizning orzuingizdagi uy </h1>
+        <div className=' py-6 ' >
+            <div className="w-max mx-auto  ">
+                <h1 className=' items-center w-[480px] ml-[38%] text-4xl text-black'>{t('homes.text')} </h1>
                 <div className="img mt-8  gap4">
                     <div className="1-column flex relative w-[100%]">
                         <img className='w-[500px] h-[350px]' src={home1} alt="" />

@@ -25,5 +25,17 @@
         "text2": "Projects",
         "text3": "Special equipment",
         "text4": "in the market for 14 years"
+    },
+    "homes": {
+        "text": "The home of your dreams"
+    },
+    "project": {
+        "text": "Our projects",
+        "text1": "This is a large-scale socially significant project. The cultural and entertainment cluster in Tashkent is one of the city's new landmarks.",
+        "text2": "A multifunctional residential complex created to provide convenience for the population of Uzbekistan.",
+        "text3": "Fonon is a jewelry manufacturing plant built in Uzbekistan in 2020 based on Italian factories. Fonon is the only major company in Central Asia that produces jewelry from precious metals in both European and Eastern styles.",
+        "text4": "An international kindergarten and school located in the Tashkent City International Business Center.",
+        "text5": "This is an educational institution that provides knowledge at an international level.",
+        "text6": "A magnificent residential complex in the heart of the capital."
     }
 }

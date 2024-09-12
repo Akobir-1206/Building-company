@@ -10,7 +10,7 @@ export default function Header() {
 
     useEffect(() => {
         const handleScroll = () => {
-            if (window.scrollY > 400) { // Вы можете изменить значение 50 на любое нужное вам
+            if (window.scrollY > 400) { 
                 setScrolled(true);
             } else {
                 setScrolled(false);
@@ -41,7 +41,7 @@ export default function Header() {
                 <li><a className='link-animation' href="">{t('header.text1')}</a></li>
                 <li><a className='link-animation' href="">{t('header.text2')}</a></li>
             </ul>
-            <a className='link-animation' href="#"><img className='w-32 h-18' src={logo} alt="" /></a>
+            <a className='link-animation px-6' href="#"><img className='w-28 h-18 ' src={logo} alt="" /></a>
             <ul className='flex gap-16 text-white font-normal'>
                 <li><a className='link-animation' href="">{t('header.text3')}</a></li>
                 <li><a className='link-animation' href="">{t('header.text4')}</a></li>
