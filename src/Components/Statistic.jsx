@@ -6,7 +6,7 @@ import { useTranslation } from 'react-i18next';
 export default function Statistic() {
     const { t, i18n } = useTranslation();
     return (
-        <div
+        <div id=''
             className='w-full bg-center bg-cover p-20'
             style={{ backgroundImage: `url(${stat})` }}
         >

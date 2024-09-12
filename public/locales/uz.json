@@ -37,5 +37,43 @@
         "text4": "Tashkent City xalqaro biznes markazida joylashgan xalqaro bolalar bog'chasi va maktabi",
         "text5": "Bu xalqaro darajada bilim beradigan ta'lim muassasasi",
         "text6": " Poytaxt markazidagi muhtasham turar-joy massivi."
+    },
+    "news": {
+        "text": "Barcha yangiliklarimiz",
+        "text1": "Qurilish loyihasi menejeri kim?",
+        "text2": "Discover Invest kompaniyasida qurilish loyihasi bo'yicha bir nechta menejerlar mavjud. Bu mutaxassis o'ziga ishonib topshirilgan qurilish ob'ektini muvaffaqiyatli amalga oshirish uchun mas'uldir.",
+        "text-btn": "Batafsil bilish",
+        "text4": "Barchani kelayotgan 2024 yil bilan tabriklayman!",
+        "text5": "Zallarning murakkab ichki dizayni kvartiraga kirishdan oldin ham qulaylik muhitini yaratadi va qulay navigatsiya tizimi sizga kerakli qavatga osongina chiqishga yoki hududga chiqishga yordam beradi.",
+        "text6": "Manzil",
+        "text7": "Transport infratuzilmasi shaharning istalgan nuqtasiga osongina ko'chib o'tishga imkon beradi: siz faqat kerakli va kerakli yo'nalishni tanlashingiz kerak.",
+        "text8": "Discover Invest ko'p ob'ektlari bilan tanishtirishda davom etamiz.",
+        "text9": "Biz sizlarni 'ATAEV BAHODIR BUILD' kompaniyasining ko'p funksiyali ob'ektlari bilan tanishtirishda davom etamiz. Ulardan biri Toshkent shahrining Yangixoyat tumanida barpo etilgan 'Yangi Choshtepa turar-joy majmuasidir."
+    },
+    "partner": {
+        "text": "Hamkorlar bilan fikr almashish"
+    },
+    "about": {
+        "text": "Biz shunchaki loyihalar yaratmaymiz, yangi imkoniyatlar yaratamiz. Davlat miqyosidagi inshootlarni qurish orqali biz kelajakni quryapmiz. Biz atrof-muhit haqida qayg'uramiz: kompaniya binolar va infratuzilmani qurish va ulardan foydalanish bilan bog'liq ekologik jihatlar uchun to'liq javobgarlikni o'z zimmasiga oladi.",
+        "text1": "Batafsil bilish"
+    },
+    "request": {
+        "text": "Savol, taklif va murojaatlar bormi?",
+        "text1": "Ismingiz",
+        "text2": "Telefon raqamingiz",
+        "text3": "Yuborilmoqda...",
+        "text4": "Yuborish",
+        "text5": "Xabar muvaffaqiyatli yuborildi!",
+        "text6": "Raqamingizni tog`ri kirgizing!",
+        "text7": "Sizning xabaringiz..."
+    },
+    "footer":{
+        "text": "Ijtimoiy tarmoqlarimizga obuna bo'ling",
+        "text1": "Kompaniyamiz",
+        "text2": "Korxonalar",
+        "text3": "Biz haqimizda",
+        "text4": "Yangiliklar",
+        "text5": "Bizning loyihalarimiz",
+        "text6": "Aloqa"
     }
 }

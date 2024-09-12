@@ -12,7 +12,7 @@ AOS.init();
 export default function Service() {
     const { t, i18n } = useTranslation();
     return (
-        <div className='py-8 bg-[#fce8bd] text-[42px] pl-20'>
+        <div id='service' className='py-8 bg-[#fce8bd] text-[42px] pl-20'>
             <div className='container'>
                 <h1 className='text-center mt-7'>{t('service.text')}</h1>
                 <div className='py-16 gap-8'>

@@ -10,7 +10,7 @@ import { useTranslation } from 'react-i18next';
 export default function Projects() {
     const { t, i18n } = useTranslation();
     return (
-        <div className='mb-10'>
+        <div id='projects' className='mb-10'>
             <div className="container">
                 <h1 className='items-left w-[400px] text-4xl text-black pb-6'>{t('project.text')}</h1>
                 <div className='relative w-full flex flex-wrap gap-10 '>
@@ -53,7 +53,7 @@ export default function Projects() {
                             {/* Qora overlay */}
                             <div className='absolute inset-0 bg-black opacity-30'></div>
                             <div className='absolute inset-0 flex flex-col justify-end p-4 z-10'>
-                                <h1 className='text-white text-4xl pb-2 transform translate-y-[145px] transition-transform duration-700 ease-in-out group-hover:translate-y-[-100px]'>
+                                <h1 className='text-white text-4xl pb-2 transform translate-y-[115px] transition-transform duration-700 ease-in-out group-hover:translate-y-[-100px]'>
                                 Fonon
                                 </h1>
                                 <p className='text-white text-lg opacity-0 transform translate-y-16 transition-all duration-700 ease-in-out group-hover:opacity-100 group-hover:translate-y-[-100px]'>
@@ -73,7 +73,7 @@ export default function Projects() {
                                     Invento
                                 </h1>
                                 <p className='text-white text-lg opacity-0 transform translate-y-16 transition-all duration-700 ease-in-out group-hover:opacity-100 group-hover:translate-y-[-170px]'>
-                                Tashkent City xalqaro biznes markazida joylashgan xalqaro bolalar bog'chasi va maktabi
+                                {t('project.text4')}
                                 </p>
                             </div>
                         </div>
@@ -89,7 +89,7 @@ export default function Projects() {
                                 Presidential School
                                 </h1>
                                 <p className='text-white text-lg opacity-0 transform translate-y-16 transition-all duration-700 ease-in-out group-hover:opacity-100 group-hover:translate-y-[-180px]'>
-                                Bu xalqaro darajada bilim beradigan ta'lim muassasasi
+                                {t('project.text5')}
                                 </p>
                             </div>
                         </div>
@@ -105,7 +105,7 @@ export default function Projects() {
                                 Boulevard
                                 </h1>
                                 <p className='text-white text-lg opacity-0 transform translate-y-16 transition-all duration-700 ease-in-out group-hover:opacity-100 group-hover:translate-y-[-170px]'>
-                                       Poytaxt markazidagi muhtasham turar-joy massivi.
+                                {t('project.text6')}
                                 </p>
                             </div>
                         </div>

@@ -37,5 +37,43 @@
         "text4": "An international kindergarten and school located in the Tashkent City International Business Center.",
         "text5": "This is an educational institution that provides knowledge at an international level.",
         "text6": "A magnificent residential complex in the heart of the capital."
+    },
+    "news": {
+        "text": "All our news",
+        "text1": "Who is a construction project manager?",
+        "text2": "Discover Invest has several construction project managers. This specialist is responsible for the successful implementation of the construction project entrusted to them.",
+        "text-btn": "Learn more",
+        "text4": "Happy New Year 2024 to everyone!",
+        "text5": "The intricate design of the halls creates a sense of comfort even before you enter the apartment, and the convenient navigation system helps you easily reach the desired floor or exit to the area.",
+        "text6": "Address",
+        "text7": "The transport infrastructure allows easy movement to any point in the city: you only need to choose the desired route.",
+        "text8": "We continue to introduce you to Discover Invest's many projects.",
+        "text9": "We continue to introduce you to the multifunctional projects of 'ATAEV BAHODIR BUILD'. One of them is the 'New Choshtepa' residential complex, built in the Yangixoyat district of Tashkent."
+    },
+    "partner": {
+        "text": "Exchanging ideas with partners"
+    },
+    "about": {
+        "text": "We don’t just create projects; we create new opportunities. By constructing large-scale state facilities, we are building the future. We care about the environment: the company takes full responsibility for the environmental aspects related to building and infrastructure construction and their operation.",
+        "text1": "Learn more"
+    },
+    "request": {
+        "text": "Do you have any questions, suggestions, or requests?",
+        "text1": "Your name",
+        "text2": "Your phone number",
+        "text3": "Sending...",
+        "text4": "Send",
+        "text5": "Message successfully sent!",
+        "text6": "Please enter a valid phone number!",
+        "text7": "Your message"
+    },
+    "footer": {
+        "text": "Follow us on social media",
+        "text1": "Our Company",
+        "text2": "Businesses",
+        "text3": "About Us",
+        "text4": "News",
+        "text5": "Our Projects",
+        "text6": "Contact"
     }
 }

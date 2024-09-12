@@ -33,3 +33,31 @@
     margin: 0 auto;
     padding: 0 10px;
 }
+
+
+/* ***********8FOOTER */
+.link-animationf {
+    position: relative;
+    display: inline-block;
+    text-decoration: none;
+    color: inherit; /* Text rangi o'zgarmaydi */
+}
+.link-animationf::after {
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: -5px;
+    width: 0;
+    height: 2.5px; 
+    background-color: rgb(188, 188, 188); 
+    transition: width 0.3s ease-out, left 0.3s ease-out;
+    border-radius: 2px;
+}
+.link-animationf:hover::after {
+    width: 100%;
+    left: 0;
+    bottom: -5px;
+}
+*{
+    scroll-behavior: smooth;
+}

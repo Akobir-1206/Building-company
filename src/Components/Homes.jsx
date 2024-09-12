@@ -10,7 +10,7 @@ import { useTranslation } from 'react-i18next'
 export default function Homes() {
     const { t, i18n } = useTranslation();
     return (
-        <div className=' py-6 ' >
+        <div id='home' className=' py-6 ' >
             <div className="w-max mx-auto  ">
                 <h1 className=' items-center w-[480px] ml-[38%] text-4xl text-black'>{t('homes.text')} </h1>
                 <div className="img mt-8  gap4">
