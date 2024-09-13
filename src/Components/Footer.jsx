@@ -20,10 +20,10 @@ export default function Footer() {
                {/* *********2list */}
                <ul className='text-xl flex flex-col gap-2 text-gray-400'>
                   <li className=''><h1 className='text-black mb-2'>{t('footer.text1')}</h1></li>
-                  <li><a className='link-animationf' href="">{t('footer.text2')}</a></li>
-                  <li><a className='link-animationf' href="">{t('footer.text3')}</a></li>
-                  <li><a className='link-animationf' href="">{t('footer.text4')}</a></li>
-                  <li><a className='link-animationf' href="">{t('footer.text5')}</a></li>
+                  <li><a className='link-animationf' href="#partner">{t('footer.text2')}</a></li>
+                  <li><a className='link-animationf' href="#about">{t('footer.text3')}</a></li>
+                  <li><a className='link-animationf' href="#news">{t('footer.text4')}</a></li>
+                  <li><a className='link-animationf' href="#projects">{t('footer.text5')}</a></li>
                </ul>
                {/* **********3list */}
                <ul className=' text-gray-400 text-xl flex flex-col gap-3'>

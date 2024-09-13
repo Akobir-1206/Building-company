@@ -92,7 +92,7 @@ export default function Request() {
       <div className="container">
         <div className="ml-20 w-[1134px] h-[685px] bg-no-repeat justify-center rounded-2xl" style={{ backgroundImage: `url(${request})` }}>
           <h1 className='w-[290px] text-white text-3xl pt-10 ml-20 mb-14'>{t(request.text)}</h1>
-          <form onSubmit={SendMessage} className='ml-20 gap-3 flex flex-col ' id='myForm'>
+          <form  onSubmit={SendMessage} className='ml-20 gap-3 flex flex-col ' id='myForm'>
             <input id='name' className='w-[443px] h-[46px] block mb-2 bg-[#d9d9d9] rounded-3xl outline-none px-4' type="text" placeholder={t('request.text1')} required />
           
             <input 

@@ -12,7 +12,7 @@ import { useTranslation } from 'react-i18next'
 export default function Partners() {
     const {t, i18n} = useTranslation();
     return (
-        <div className='w-full py-10'>
+        <div id='partner' className='w-full py-10'>
                 <h1 className='ml-[35%] items-center text-4xl text-black mb-6'>{t('partner.text')}</h1>
             <div className="grid max-md:grid-cols-2 grid-cols-4 " >
                 <img src={par1} alt="" />
